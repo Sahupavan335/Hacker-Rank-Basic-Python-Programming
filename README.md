@@ -13,4 +13,5 @@ These exercises cover essential Python concepts such as printing, conditional st
 | 4 | Python: Division                | ⭐ Easy     | 10        |
 | 5 | Loops                           | ⭐ Easy     | 10        |
 | 6 | Write a Function                | ⭐ Medium   | 10        |
-| 7 | Print Function                  | ⭐ Easy     | —         |
+| 7 | Print Function                  | ⭐ Easy     | 20        |
+
